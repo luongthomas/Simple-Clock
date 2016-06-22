@@ -1,0 +1,12 @@
+#timer, h1 {
+  width: 25%;
+  text-align: center;
+}
+
+#timer {
+  background-color: skyblue;
+}
+
+h1 {
+  background-color: tomato;
+}
